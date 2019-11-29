@@ -19,6 +19,7 @@ tomcat:
   external_configuration_enabled: yes
 external_configuration:
   version: 8.5.49
+  context_path:
   repository_root: https://asmtom.apps.pp01i.edc1.cf.ford.com 
 lifecycle_support:
   version: 3.+
